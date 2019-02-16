@@ -1,2 +1,3 @@
 # Algorithms
-It contains all algorithms
+It contains all algorithms :
+* Which helps in competative Programming. 
